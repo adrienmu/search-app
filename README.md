@@ -1,6 +1,6 @@
 # search-app [ WIP ]
 
-mvvm, coroutine, retrofit2, kotlin-serialization, compose, tests, koin
+mvvm, coroutine, retrofit2, kotlin-serialization, compose, compose navigation, tests, koin
 
 
 Architecture
