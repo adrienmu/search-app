@@ -1,4 +1,4 @@
-package com.amussio.myfirstapp.data.ws
+package com.amussio.myfirstapp.data.network
 
 import com.amussio.myfirstapp.data.models.ws.QueryResponseWs
 import retrofit2.http.GET

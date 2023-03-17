@@ -1,7 +1,7 @@
 package com.amussio.myfirstapp.domain.repository
 
 import com.amussio.myfirstapp.data.repository.PicturesRepository
-import com.amussio.myfirstapp.data.ws.PixabayApi
+import com.amussio.myfirstapp.data.network.PixabayApi
 import kotlinx.coroutines.flow.flow
 
 class PicturesRepositoryImpl(val api: PixabayApi): PicturesRepository  {

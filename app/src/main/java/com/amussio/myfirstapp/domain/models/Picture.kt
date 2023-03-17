@@ -4,4 +4,5 @@ data class Picture(
     val id: Int,
     val previewURL: String,
     val tags: String,
+    val likes: Int,
 )
